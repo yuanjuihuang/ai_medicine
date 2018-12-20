@@ -1,0 +1,14 @@
+Benign
+Malignancy
+Benign_BIRADS_1
+Malignancy_BIRADS_1
+Benign_BIRADS_2
+Malignancy_BIRADS_2
+Benign_BIRADS_3
+Malignancy_BIRADS_3
+Benign_BIRADS_4
+Malignancy_BIRADS_4
+Benign_BIRADS_5
+Malignancy_BIRADS_5
+Benign_BIRADS_
+Malignancy_BIRADS_
